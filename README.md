@@ -16,3 +16,5 @@ Pods Deployment Scaling
 ![Screenshot from 2025-01-20 19-27-15](https://github.com/user-attachments/assets/4fdb01de-3e19-43f4-97ce-ada66328cd37)
 ![Screenshot from 2025-01-20 19-28-00](https://github.com/user-attachments/assets/b26731b0-e653-42d7-bff0-64011361f694)
 ![Screenshot from 2025-01-20 19-33-16](https://github.com/user-attachments/assets/66e2a589-fb3a-4aa3-9186-431046302425)
+Horizontal pod autoscalling CPU-percent=80
+![Screenshot from 2025-01-20 19-43-41](https://github.com/user-attachments/assets/bc699b28-da78-4d5f-b2aa-fc4e93a34695)
