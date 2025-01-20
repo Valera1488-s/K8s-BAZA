@@ -20,3 +20,5 @@ Horizontal pod autoscalling CPU-percent=80
 ![Screenshot from 2025-01-20 19-43-41](https://github.com/user-attachments/assets/bc699b28-da78-4d5f-b2aa-fc4e93a34695)
 Deployment rollout 
 ![Screenshot from 2025-01-20 19-53-44](https://github.com/user-attachments/assets/a3bbdb5a-207c-474b-b90c-a2846eabe873)
+Manifest-file replicas
+![Screenshot from 2025-01-20 20-03-27](https://github.com/user-attachments/assets/abf27251-4408-4836-aae9-82d2d17d19e5)
