@@ -24,3 +24,9 @@ Manifest-file replicas
 ![Screenshot from 2025-01-20 20-03-27](https://github.com/user-attachments/assets/abf27251-4408-4836-aae9-82d2d17d19e5)
 Replicas results
 ![Screenshot from 2025-01-20 20-07-16](https://github.com/user-attachments/assets/46dca57c-14a8-40ba-ae74-3e8a1f748ea6)
+Deployment , 2pods ,services - LoadBalancer,Multiservice....
+![Screenshot from 2025-01-22 14-06-43](https://github.com/user-attachments/assets/e991ccd3-2c16-430f-b68c-6f20b934c0ba)
+![Screenshot from 2025-01-22 14-06-34](https://github.com/user-attachments/assets/91699313-8b37-4140-960f-f0712c49d485)
+![Screenshot from 2025-01-22 14-06-16](https://github.com/user-attachments/assets/f8082ba6-4b5d-4834-ba90-282aff121c30)
+![Screenshot from 2025-01-22 14-05-58](https://github.com/user-attachments/assets/9bc258c6-df04-41f7-8713-5cf3f0e686a2)
+![Screenshot from 2025-01-22 14-05-40](https://github.com/user-attachments/assets/1ecfccfe-e638-4920-b834-77b0ebc4cb0f)
